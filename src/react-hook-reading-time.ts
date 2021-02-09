@@ -1,0 +1,1 @@
+export { useReadingTime } from './useReadingTime';
