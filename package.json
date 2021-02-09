@@ -1,7 +1,7 @@
 {
   "name": "react-hook-reading-time",
   "version": "1.0.0",
-  "description": "Medium's like reading time estimator for React.",
+  "description": "Medium's like reading time estimation for React.",
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",
   "repository": {

@@ -1,6 +1,6 @@
 # react-hook-reading-time
 
-Medium's like reading time estimator for React.
+Medium's like reading time estimation for React.
 
 `react-hook-reading-time` helps you estimate how long an article will take to read. It works perfectly with plain text.
 
